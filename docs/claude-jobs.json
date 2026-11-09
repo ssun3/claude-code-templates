@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-08T03:04:51.205811+00:00",
-  "totalJobs": 747,
+  "lastUpdated": "2026-11-09T11:09:22.825152+00:00",
+  "totalJobs": 746,
   "sources": [
     "Anthropic",
     "Ashby",
@@ -10,6 +10,27 @@
     "RemoteOK"
   ],
   "jobs": [
+    {
+      "id": "as-harvey-21031616-e7b7-420a-a5b6-6c7006e55989",
+      "company": "Harvey",
+      "position": "Technical CX Specialist, EMEA",
+      "location": "Dublin",
+      "locations": [
+        "Dublin"
+      ],
+      "remote": false,
+      "salary": "",
+      "description": "WHY HARVEY\n\nAt Harvey, we’re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we’re reshaping how critical knowledge work gets done for decades to come.\n\nThis is a rare chance to help build a...",
+      "applyUrl": "https://jobs.ashbyhq.com/harvey/21031616-e7b7-420a-a5b6-6c7006e55989",
+      "source": "Ashby",
+      "sourceUrl": "https://jobs.ashbyhq.com/harvey/21031616-e7b7-420a-a5b6-6c7006e55989",
+      "postedAt": "2026-11-09T09:43:25.146+00:00",
+      "tags": [
+        "Claude Code",
+        "MCP"
+      ],
+      "companyIcon": "https://harvey.ai/favicon.ico"
+    },
     {
       "id": "gr-deliveroo-8205846",
       "company": "Deliveroo ",
@@ -24,7 +45,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/deliveroo/jobs/8205846",
       "source": "Greenhouse",
       "sourceUrl": "https://job-boards.greenhouse.io/deliveroo/jobs/8205846",
-      "postedAt": "2026-11-07T21:48:05-05:00",
+      "postedAt": "2026-11-09T05:58:05-05:00",
       "tags": [
         "Claude Code",
         "Python",
@@ -33,6 +54,60 @@
         "Kubernetes",
         "Cursor",
         "MCP"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "gr-quintoandar-4472905009",
+      "company": "Grupo QuintoAndar",
+      "position": "Grupo QuintoAndar | Staff Software Engineer 2",
+      "location": "Brasil",
+      "locations": [
+        "Brasil"
+      ],
+      "remote": false,
+      "salary": "",
+      "description": "About Grupo QuintoAndar Grupo QuintoAndar is the largest real estate ecosystem in Latin America, with brands and solutions across six countries. Our purpose is to help people love where they live by making the housing journey simpler, from finding a home to managing life in it. We’re also investing...",
+      "applyUrl": "https://job-boards.greenhouse.io/quintoandar/jobs/4472905009",
+      "source": "Greenhouse",
+      "sourceUrl": "https://job-boards.greenhouse.io/quintoandar/jobs/4472905009",
+      "postedAt": "2026-11-09T05:19:53-05:00",
+      "tags": [
+        "Claude Code",
+        "React",
+        "Python",
+        "Go",
+        "Node.js",
+        "AWS",
+        "Kotlin",
+        "Java"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "gr-quintoandar-4471917009",
+      "company": "Grupo QuintoAndar",
+      "position": "Grupo QuintoAndar | Staff Software Engineer",
+      "location": "Brasil",
+      "locations": [
+        "Brasil"
+      ],
+      "remote": false,
+      "salary": "",
+      "description": "About Grupo QuintoAndar Grupo QuintoAndar is the largest real estate ecosystem in Latin America, with brands and solutions across six countries. Our purpose is to help people love where they live by making the housing journey simpler, from finding a home to managing life in it. We’re also investing...",
+      "applyUrl": "https://job-boards.greenhouse.io/quintoandar/jobs/4471917009",
+      "source": "Greenhouse",
+      "sourceUrl": "https://job-boards.greenhouse.io/quintoandar/jobs/4471917009",
+      "postedAt": "2026-11-09T05:16:23-05:00",
+      "tags": [
+        "Claude Code",
+        "React",
+        "Python",
+        "Go",
+        "Node.js",
+        "AWS",
+        "Kotlin",
+        "Java"
       ],
       "companyIcon": ""
     },
@@ -2711,27 +2786,6 @@
       "companyIcon": "https://fivetran.com/favicon.ico"
     },
     {
-      "id": "as-harvey-21031616-e7b7-420a-a5b6-6c7006e55989",
-      "company": "Harvey",
-      "position": "Technical CX Specialist, EMEA",
-      "location": "Dublin",
-      "locations": [
-        "Dublin"
-      ],
-      "remote": false,
-      "salary": "",
-      "description": "WHY HARVEY\n\nAt Harvey, we’re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we’re reshaping how critical knowledge work gets done for decades to come.\n\nThis is a rare chance to help build a...",
-      "applyUrl": "https://jobs.ashbyhq.com/harvey/21031616-e7b7-420a-a5b6-6c7006e55989",
-      "source": "Ashby",
-      "sourceUrl": "https://jobs.ashbyhq.com/harvey/21031616-e7b7-420a-a5b6-6c7006e55989",
-      "postedAt": "2026-11-05T08:57:20.409+00:00",
-      "tags": [
-        "Claude Code",
-        "MCP"
-      ],
-      "companyIcon": "https://harvey.ai/favicon.ico"
-    },
-    {
       "id": "gr-grafanalabs-6092955004",
       "company": "Grafana Labs",
       "position": "Staff AI Engineer | USA | Remote",
@@ -2892,19 +2946,19 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-mongodb-7778975",
+      "id": "gr-mongodb-8036348",
       "company": "MongoDB",
       "position": "Senior Administrator - Business Systems",
-      "location": "India",
+      "location": "Gurugram",
       "locations": [
-        "India"
+        "Gurugram"
       ],
       "remote": false,
       "salary": "",
-      "description": "We are looking to speak to candidates who are based in India for our hybrid working model. About MongoDB The database market is massive, and MongoDB is at the head of its disruption. The MongoDB community is transforming industries and empowering developers to build amazing applications that people...",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=7778975",
+      "description": "The IT SaaS Engineering Team plays a critical role in optimizing MongoDB sales processes, streamlining customer interactions, and maximizing the efficiency of our sales efforts. By leveraging Salesforce, the team ensures that business users have the tools, automation, security, and governance...",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8036348",
       "source": "Greenhouse",
-      "sourceUrl": "https://www.mongodb.com/careers/job/?gh_jid=7778975",
+      "sourceUrl": "https://www.mongodb.com/careers/job/?gh_jid=8036348",
       "postedAt": "2026-11-05T05:24:25-05:00",
       "tags": [
         "Claude Code",
@@ -5186,19 +5240,19 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-fivetran-7865559003",
+      "id": "gr-fivetran-7865591003",
       "company": "Fivetran",
       "position": "Senior Software Engineer, Metadata",
-      "location": "Denver, Colorado, United States, AMER",
+      "location": "Oakland, California, United States",
       "locations": [
-        "Denver, Colorado, United States, AMER"
+        "Oakland, California, United States"
       ],
       "remote": false,
       "salary": "",
       "description": "From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more...",
-      "applyUrl": "https://www.fivetran.com/careers/job?gh_jid=7865559003",
+      "applyUrl": "https://www.fivetran.com/careers/job?gh_jid=7865591003",
       "source": "Greenhouse",
-      "sourceUrl": "https://www.fivetran.com/careers/job?gh_jid=7865559003",
+      "sourceUrl": "https://www.fivetran.com/careers/job?gh_jid=7865591003",
       "postedAt": "2026-11-03T11:35:48-05:00",
       "tags": [
         "Claude Code",
@@ -5397,31 +5451,6 @@
         "AWS"
       ],
       "companyIcon": "https://monzo.com/favicon.ico"
-    },
-    {
-      "id": "gr-kimchi-4425607009",
-      "company": "Kimchi",
-      "position": "Sales Engineer | Kimchi | EMEA",
-      "location": "EMEA · European Union",
-      "locations": [
-        "EMEA",
-        "European Union"
-      ],
-      "remote": false,
-      "salary": "",
-      "description": "Why Kimchi? Kimchi is the enterprise AI coding platform from Cast AI , the automation company behind cloud-native infrastructure optimization for 2,100+ organizations, including Akamai, BMW, Cisco, and HuggingFace. We took six years of autonomous-infrastructure engineering and pointed it at how...",
-      "applyUrl": "https://job-boards.greenhouse.io/kimchi/jobs/4425607009",
-      "source": "Greenhouse",
-      "sourceUrl": "https://job-boards.greenhouse.io/kimchi/jobs/4425607009",
-      "postedAt": "2026-11-03T04:56:39-05:00",
-      "tags": [
-        "Claude Code",
-        "Kubernetes",
-        "Cursor",
-        "Copilot",
-        "MCP"
-      ],
-      "companyIcon": ""
     },
     {
       "id": "as-temporal-dfa01032-82b4-443f-bfdc-1a20bd976b9c",
@@ -6158,19 +6187,19 @@
       "companyIcon": "https://fivetran.com/favicon.ico"
     },
     {
-      "id": "gr-fivetran-7823195003",
+      "id": "gr-fivetran-7859203003",
       "company": "Fivetran",
       "position": "Engineering Manager, Metadata",
-      "location": "Denver, Colorado, United States, AMER",
+      "location": "Oakland, California, United States",
       "locations": [
-        "Denver, Colorado, United States, AMER"
+        "Oakland, California, United States"
       ],
       "remote": false,
       "salary": "",
       "description": "From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more...",
-      "applyUrl": "https://www.fivetran.com/careers/job?gh_jid=7823195003",
+      "applyUrl": "https://www.fivetran.com/careers/job?gh_jid=7859203003",
       "source": "Greenhouse",
-      "sourceUrl": "https://www.fivetran.com/careers/job?gh_jid=7823195003",
+      "sourceUrl": "https://www.fivetran.com/careers/job?gh_jid=7859203003",
       "postedAt": "2026-11-02T14:51:30-05:00",
       "tags": [
         "Claude Code",
@@ -6770,19 +6799,19 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-affirm-7718808003",
+      "id": "gr-affirm-8036613003",
       "company": "Affirm",
       "position": "Security Risk Management Lead",
-      "location": "Remote US",
+      "location": "Remote Canada",
       "locations": [
-        "Remote US"
+        "Remote Canada"
       ],
       "remote": true,
-      "salary": "$165,000 - $225,000",
-      "description": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. Affirm values security as being critical to the company’s continued success. Our mission is to cultivate a culture of...",
-      "applyUrl": "https://job-boards.greenhouse.io/affirm/jobs/7718808003",
+      "salary": "$128,000 - $188,000",
+      "description": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden...",
+      "applyUrl": "https://job-boards.greenhouse.io/affirm/jobs/8036613003",
       "source": "Greenhouse",
-      "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7718808003",
+      "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/8036613003",
       "postedAt": "2026-10-30T17:15:12-04:00",
       "tags": [
         "Claude Code",
@@ -6839,19 +6868,19 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-affirm-7829427003",
+      "id": "gr-affirm-7829429003",
       "company": "Affirm",
       "position": "Staff Software Engineer, Mobile (App Infrastructure)",
-      "location": "Remote US",
+      "location": "Remote Canada",
       "locations": [
-        "Remote US"
+        "Remote Canada"
       ],
       "remote": true,
-      "salary": "$230,000 - $290,000",
+      "salary": "$181,000 - $241,000",
       "description": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. App Infrastructure is the team behind Affirm's shared mobile app infrastructure — the platform every other mobile...",
-      "applyUrl": "https://job-boards.greenhouse.io/affirm/jobs/7829427003",
+      "applyUrl": "https://job-boards.greenhouse.io/affirm/jobs/7829429003",
       "source": "Greenhouse",
-      "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7829427003",
+      "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7829429003",
       "postedAt": "2026-10-30T17:15:12-04:00",
       "tags": [
         "Claude Code",
@@ -7152,19 +7181,19 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-samsara-8281483",
+      "id": "gr-samsara-7917475",
       "company": "Samsara",
       "position": "Senior AI Data & Analytics Engineer II",
-      "location": "Remote - CA",
+      "location": "Remote - SF Bay Area",
       "locations": [
-        "Remote - CA"
+        "Remote - SF Bay Area"
       ],
       "remote": true,
       "salary": "",
       "description": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping...",
-      "applyUrl": "https://www.samsara.com/company/careers/roles/8281483?gh_jid=8281483",
+      "applyUrl": "https://www.samsara.com/company/careers/roles/7917475?gh_jid=7917475",
       "source": "Greenhouse",
-      "sourceUrl": "https://www.samsara.com/company/careers/roles/8281483?gh_jid=8281483",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7917475?gh_jid=7917475",
       "postedAt": "2026-10-30T11:22:26-04:00",
       "tags": [
         "Claude Code",
@@ -7174,19 +7203,19 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-samsara-8109358",
+      "id": "gr-samsara-7752678",
       "company": "Samsara",
       "position": "Staff Software Engineer, DevEx",
-      "location": "Remote - Canada",
+      "location": "Remote - US",
       "locations": [
-        "Remote - Canada"
+        "Remote - US"
       ],
       "remote": true,
       "salary": "",
       "description": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping...",
-      "applyUrl": "https://www.samsara.com/company/careers/roles/8109358?gh_jid=8109358",
+      "applyUrl": "https://www.samsara.com/company/careers/roles/7752678?gh_jid=7752678",
       "source": "Greenhouse",
-      "sourceUrl": "https://www.samsara.com/company/careers/roles/8109358?gh_jid=8109358",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7752678?gh_jid=7752678",
       "postedAt": "2026-10-30T11:15:54-04:00",
       "tags": [
         "Claude Code",
@@ -7416,33 +7445,6 @@
         "Python"
       ],
       "companyIcon": "https://fivetran.com/favicon.ico"
-    },
-    {
-      "id": "gr-quintoandar-4471917009",
-      "company": "Grupo QuintoAndar",
-      "position": "Grupo QuintoAndar | Staff Software Engineer",
-      "location": "Brasil",
-      "locations": [
-        "Brasil"
-      ],
-      "remote": false,
-      "salary": "",
-      "description": "About Grupo QuintoAndar Grupo QuintoAndar is the largest real estate ecosystem in Latin America, with brands and solutions across six countries. Our purpose is to help people love where they live by making the housing journey simpler, from finding a home to managing life in it. We’re also investing...",
-      "applyUrl": "https://job-boards.greenhouse.io/quintoandar/jobs/4471917009",
-      "source": "Greenhouse",
-      "sourceUrl": "https://job-boards.greenhouse.io/quintoandar/jobs/4471917009",
-      "postedAt": "2026-10-30T07:29:50-04:00",
-      "tags": [
-        "Claude Code",
-        "React",
-        "Python",
-        "Go",
-        "Node.js",
-        "AWS",
-        "Kotlin",
-        "Java"
-      ],
-      "companyIcon": ""
     },
     {
       "id": "as-statisfy-2706b69d-b145-479b-b59d-b6dae59e5ae7",
@@ -7800,32 +7802,6 @@
         "TypeScript",
         "JavaScript",
         "Cursor"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "as-ameba-4804d0c1-b195-4632-9c88-c1b63a857727",
-      "company": "Ameba",
-      "position": "Founding Software Engineer (Senior Software Engineer)",
-      "location": "London",
-      "locations": [
-        "London"
-      ],
-      "remote": false,
-      "salary": "£100K – £130K • 1% – 2%",
-      "description": "Founding Software Engineer at Ameba\n\nEngineering at Ameba is a rare opportunity to build cutting-edge software in a traditional industry, while being generously rewarded for your contributions. If you’ve never considered working in supply chains before, everything around you, including the device...",
-      "applyUrl": "https://jobs.ashbyhq.com/ameba/4804d0c1-b195-4632-9c88-c1b63a857727",
-      "source": "Ashby",
-      "sourceUrl": "https://jobs.ashbyhq.com/ameba/4804d0c1-b195-4632-9c88-c1b63a857727",
-      "postedAt": "2026-10-29T16:34:48.236+00:00",
-      "tags": [
-        "Claude Code",
-        "React",
-        "TypeScript",
-        "Python",
-        "AWS",
-        "Kotlin",
-        "Java"
       ],
       "companyIcon": ""
     },
@@ -9004,7 +8980,7 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-opswat-4724688005",
+      "id": "gr-opswat-4528456005",
       "company": "OPSWAT",
       "position": "AI-Native Software Engineer - MD Core",
       "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
@@ -9014,9 +8990,9 @@
       "remote": false,
       "salary": "",
       "description": "OPSWAT , a global leader in IT, OT , and ICS critical infrastructure cybersecurity, delivers an end-to-end platform that gives public and private sector organizations and enterprises the critical advantage needed to protect their complex networks, secure their devices, and ensure compliance. Over...",
-      "applyUrl": "https://www.opswat.com/jobs/4724688005?gh_jid=4724688005",
+      "applyUrl": "https://www.opswat.com/jobs/4528456005?gh_jid=4528456005",
       "source": "Greenhouse",
-      "sourceUrl": "https://www.opswat.com/jobs/4724688005?gh_jid=4724688005",
+      "sourceUrl": "https://www.opswat.com/jobs/4528456005?gh_jid=4528456005",
       "postedAt": "2026-10-28T04:46:09-04:00",
       "tags": [
         "Claude Code",
@@ -9277,7 +9253,7 @@
         "Burnaby"
       ],
       "remote": false,
-      "salary": "CA$25 – CA$28 per hour",
+      "salary": "CA$20 per hour",
       "description": "🎨 OpusClip https://www.opus.pro is the world's No.1 AI video agent, built for authenticity on social media.\n\nWe envision a world where everyone can authentically share their story through video, with no expertise needed. Within just 18 months of our launch, over 20 million creators and businesses...",
       "applyUrl": "https://jobs.ashbyhq.com/opusclip/6906926b-eb37-4b68-ad17-5383fbda7818",
       "source": "Ashby",
@@ -14850,19 +14826,19 @@
       "companyIcon": "https://intercom.com/favicon.ico"
     },
     {
-      "id": "gr-tailscale-4721714005",
+      "id": "gr-tailscale-4721713005",
       "company": "Tailscale",
       "position": "Software Engineer, Strategic Projects",
-      "location": "Remote (United States)",
+      "location": "Remote (Canada)",
       "locations": [
-        "Remote (United States)"
+        "Remote (Canada)"
       ],
       "remote": true,
       "salary": "",
       "description": "Thank you for considering Tailscale. If this job description resonates with you, please apply. Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. We encourage you to help us break...",
-      "applyUrl": "https://job-boards.greenhouse.io/tailscale/jobs/4721714005",
+      "applyUrl": "https://job-boards.greenhouse.io/tailscale/jobs/4721713005",
       "source": "Greenhouse",
-      "sourceUrl": "https://job-boards.greenhouse.io/tailscale/jobs/4721714005",
+      "sourceUrl": "https://job-boards.greenhouse.io/tailscale/jobs/4721713005",
       "postedAt": "2026-09-29T20:38:27-04:00",
       "tags": [
         "Claude Code",
@@ -16002,19 +15978,19 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-babylist-6103791004",
+      "id": "gr-babylist-5678188004",
       "company": "Babylist",
       "position": "Staff Software Engineer",
-      "location": "United States",
+      "location": "Canada",
       "locations": [
-        "United States"
+        "Canada"
       ],
       "remote": false,
       "salary": "",
       "description": "What The Role Is As a Staff Engineer at Babylist, you own some of our hardest domains and decide where they go. Millions of families depend on what we build. Agents write most of the code now. So the hard part is yours: what to build, how it should work and whether what shipped was right. You're...",
-      "applyUrl": "https://job-boards.greenhouse.io/babylist/jobs/6103791004",
+      "applyUrl": "https://job-boards.greenhouse.io/babylist/jobs/5678188004",
       "source": "Greenhouse",
-      "sourceUrl": "https://job-boards.greenhouse.io/babylist/jobs/6103791004",
+      "sourceUrl": "https://job-boards.greenhouse.io/babylist/jobs/5678188004",
       "postedAt": "2026-09-03T17:15:06-04:00",
       "tags": [
         "Claude Code",
@@ -16562,19 +16538,19 @@
       "companyIcon": "https://baseten.co/favicon.ico"
     },
     {
-      "id": "gr-instacart-8084090",
+      "id": "gr-instacart-8084089",
       "company": "Instacart",
       "position": "Staff Experience Designer",
-      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "location": "United States - Remote",
       "locations": [
-        "Canada - Remote (ON, AB, BC, or NS Only)"
+        "United States - Remote"
       ],
       "remote": true,
       "salary": "",
       "description": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless...",
-      "applyUrl": "https://instacart.careers/job/?gh_jid=8084090",
+      "applyUrl": "https://instacart.careers/job/?gh_jid=8084089",
       "source": "Greenhouse",
-      "sourceUrl": "https://instacart.careers/job/?gh_jid=8084090",
+      "sourceUrl": "https://instacart.careers/job/?gh_jid=8084089",
       "postedAt": "2026-08-24T13:15:00-04:00",
       "tags": [
         "Claude Code",
@@ -17832,19 +17808,19 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-brex-8463703002",
+      "id": "gr-brex-8463702002",
       "company": "Brex",
       "position": "Data Analyst II",
-      "location": "São Paulo, São Paulo, Brazil",
+      "location": "New York, New York, United States",
       "locations": [
-        "São Paulo, São Paulo, Brazil"
+        "New York, New York, United States"
       ],
       "remote": false,
-      "salary": "",
+      "salary": "$93,600 - $117,000",
       "description": "Why join us Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to...",
-      "applyUrl": "https://www.brex.com/careers/8463703002?gh_jid=8463703002",
+      "applyUrl": "https://www.brex.com/careers/8463702002?gh_jid=8463702002",
       "source": "Greenhouse",
-      "sourceUrl": "https://www.brex.com/careers/8463703002?gh_jid=8463703002",
+      "sourceUrl": "https://www.brex.com/careers/8463702002?gh_jid=8463702002",
       "postedAt": "2026-06-10T13:59:16-04:00",
       "tags": [
         "Claude Code",
