@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-11-14T09:58:43Z",
+  "lastUpdated": "2026-11-15T10:35:04Z",
   "sources": [
     "Anthropic Academy",
     "Anthropic Partner Academy",
@@ -1647,7 +1647,7 @@
       "role": "Developer",
       "platform": "Microsoft Learn",
       "addedAt": "2026-11-06",
-      "verifiedAt": "2026-11-14"
+      "verifiedAt": "2026-11-15"
     },
     {
       "provider": "GitHub",
@@ -1666,7 +1666,7 @@
       "role": "Developer",
       "platform": "Microsoft Learn",
       "addedAt": "2026-11-06",
-      "verifiedAt": "2026-11-14"
+      "verifiedAt": "2026-11-15"
     },
     {
       "provider": "GitHub",
@@ -1685,7 +1685,7 @@
       "role": "Business",
       "platform": "Microsoft Learn",
       "addedAt": "2026-11-06",
-      "verifiedAt": "2026-11-14"
+      "verifiedAt": "2026-11-15"
     }
   ]
 }
