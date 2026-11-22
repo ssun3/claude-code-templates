@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-21T10:49:06.425122+00:00",
+  "lastUpdated": "2026-11-22T10:56:46.535131+00:00",
   "totalJobs": 725,
   "sources": [
     "Anthropic",
@@ -24,7 +24,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/deliveroo/jobs/8205846",
       "source": "Greenhouse",
       "sourceUrl": "https://job-boards.greenhouse.io/deliveroo/jobs/8205846",
-      "postedAt": "2026-11-21T05:43:22-05:00",
+      "postedAt": "2026-11-22T05:12:55-05:00",
       "tags": [
         "Claude Code",
         "Python",
@@ -1913,19 +1913,19 @@
       "companyIcon": "https://fivetran.com/favicon.ico"
     },
     {
-      "id": "gr-fivetran-7823195003",
+      "id": "gr-fivetran-8016899003",
       "company": "Fivetran",
       "position": "Engineering Manager, Metadata",
-      "location": "Denver, Colorado, United States, AMER",
+      "location": "USA - Austin (dbt)",
       "locations": [
-        "Denver, Colorado, United States, AMER"
+        "USA - Austin (dbt)"
       ],
       "remote": false,
       "salary": "",
       "description": "From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more...",
-      "applyUrl": "https://www.fivetran.com/careers/job?gh_jid=7823195003",
+      "applyUrl": "https://www.fivetran.com/careers/job?gh_jid=8016899003",
       "source": "Greenhouse",
-      "sourceUrl": "https://www.fivetran.com/careers/job?gh_jid=7823195003",
+      "sourceUrl": "https://www.fivetran.com/careers/job?gh_jid=8016899003",
       "postedAt": "2026-11-19T10:13:32-05:00",
       "tags": [
         "Claude Code",
@@ -2209,7 +2209,7 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-opswat-4724688005",
+      "id": "gr-opswat-4528456005",
       "company": "OPSWAT",
       "position": "AI-Native Software Engineer - MD Core",
       "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
@@ -2219,9 +2219,9 @@
       "remote": false,
       "salary": "",
       "description": "OPSWAT , a global leader in IT, OT , and ICS critical infrastructure cybersecurity, delivers an end-to-end platform that gives public and private sector organizations and enterprises the critical advantage needed to protect their complex networks, secure their devices, and ensure compliance. Over...",
-      "applyUrl": "https://www.opswat.com/jobs/4724688005?gh_jid=4724688005",
+      "applyUrl": "https://www.opswat.com/jobs/4528456005?gh_jid=4528456005",
       "source": "Greenhouse",
-      "sourceUrl": "https://www.opswat.com/jobs/4724688005?gh_jid=4724688005",
+      "sourceUrl": "https://www.opswat.com/jobs/4528456005?gh_jid=4528456005",
       "postedAt": "2026-11-19T03:44:52-05:00",
       "tags": [
         "Claude Code",
@@ -4017,7 +4017,7 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-andurilindustries-5251234007",
+      "id": "gr-andurilindustries-5198870007",
       "company": "Anduril Industries",
       "position": "Senior Quality Engineer, Analytics",
       "location": "Ashville, Ohio, United States",
@@ -4027,9 +4027,9 @@
       "remote": false,
       "salary": "",
       "description": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how...",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5251234007?gh_jid=5251234007",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5198870007?gh_jid=5198870007",
       "source": "Greenhouse",
-      "sourceUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5251234007?gh_jid=5251234007",
+      "sourceUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5198870007?gh_jid=5198870007",
       "postedAt": "2026-11-16T21:23:01-05:00",
       "tags": [
         "Claude Code",
@@ -4534,19 +4534,19 @@
       "companyIcon": "https://mixpanel.com/favicon.ico"
     },
     {
-      "id": "gr-mixpanel-8237751",
+      "id": "gr-mixpanel-8248501",
       "company": "Mixpanel",
       "position": "Senior Customer Engineer - LATAM (Spanish Speaking)",
-      "location": "Florida, US (Remote)",
+      "location": "Remote, US (Remote)",
       "locations": [
-        "Florida, US (Remote)"
+        "Remote, US (Remote)"
       ],
       "remote": true,
       "salary": "",
       "description": "About Mixpanel Mixpanel is the leading product intelligence and analytics platform, trusted by more than 29,000 companies to help understand how people use the products they build. By combining powerful analytics with AI that knows your business, Mixpanel helps teams see what’s working, diagnose...",
-      "applyUrl": "https://job-boards.greenhouse.io/mixpanel/jobs/8237751",
+      "applyUrl": "https://job-boards.greenhouse.io/mixpanel/jobs/8248501",
       "source": "Greenhouse",
-      "sourceUrl": "https://job-boards.greenhouse.io/mixpanel/jobs/8237751",
+      "sourceUrl": "https://job-boards.greenhouse.io/mixpanel/jobs/8248501",
       "postedAt": "2026-11-16T14:21:48-05:00",
       "tags": [
         "Claude Code",
@@ -6537,19 +6537,19 @@
       "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
-      "id": "gr-affirm-8011040003",
+      "id": "gr-affirm-8011038003",
       "company": "Affirm",
       "position": "Staff Product Manager, Consumer Growth Loyalty",
-      "location": "Remote Canada",
+      "location": "Remote US",
       "locations": [
-        "Remote Canada"
+        "Remote US"
       ],
       "remote": true,
-      "salary": "$181,000 - $241,000",
+      "salary": "$230,000 - $290,000",
       "description": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. About the Product team The Product team listens to our customers’ needs and translates those insights into a clear...",
-      "applyUrl": "https://job-boards.greenhouse.io/affirm/jobs/8011040003",
+      "applyUrl": "https://job-boards.greenhouse.io/affirm/jobs/8011038003",
       "source": "Greenhouse",
-      "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/8011040003",
+      "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/8011038003",
       "postedAt": "2026-11-09T16:58:19-05:00",
       "tags": [
         "Claude Code",
@@ -10202,32 +10202,6 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-toast-8191597",
-      "company": "Toast",
-      "position": "Senior Software Engineer, Release Engineering",
-      "location": "Remote, US",
-      "locations": [
-        "Remote, US"
-      ],
-      "remote": true,
-      "salary": "",
-      "description": "Toast creates technology to help restaurants and local businesses succeed in a digital world, helping business owners operate, increase sales, engage customers, and keep employees happy. The mission of the Release Engineering team is “to empower Toasters to build and deploy software with speed,...",
-      "applyUrl": "https://careers.toasttab.com/jobs?gh_jid=8191597",
-      "source": "Greenhouse",
-      "sourceUrl": "https://careers.toasttab.com/jobs?gh_jid=8191597",
-      "postedAt": "2026-10-29T15:06:21-04:00",
-      "tags": [
-        "Claude Code",
-        "TypeScript",
-        "Go",
-        "PostgreSQL",
-        "AWS",
-        "Kotlin",
-        "Java"
-      ],
-      "companyIcon": ""
-    },
-    {
       "id": "gr-nscaleoperationsukltd-5021031101",
       "company": "Nscale",
       "position": "Senior Manager, Developer Platforms",
@@ -10381,6 +10355,32 @@
       "postedAt": "2026-10-29T08:51:42.479+00:00",
       "tags": [
         "Claude Code"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "gr-toast-8333523",
+      "company": "Toast",
+      "position": "Senior Software Engineer, IQ Grow",
+      "location": "Dublin, Ireland",
+      "locations": [
+        "Dublin, Ireland"
+      ],
+      "remote": false,
+      "salary": "",
+      "description": "Toast creates technology to help restaurants and local businesses succeed in a digital world, helping business owners operate, increase sales, engage customers, and keep employees happy. At Toast, the IQ Grow team is on a mission to scale new, high-impact go-to-market initiatives. By combining the...",
+      "applyUrl": "https://careers.toasttab.com/jobs?gh_jid=8333523",
+      "source": "Greenhouse",
+      "sourceUrl": "https://careers.toasttab.com/jobs?gh_jid=8333523",
+      "postedAt": "2026-10-29T06:41:35-04:00",
+      "tags": [
+        "Claude Code",
+        "React",
+        "PostgreSQL",
+        "Kotlin",
+        "Java",
+        "Tailwind",
+        "GraphQL"
       ],
       "companyIcon": ""
     },
