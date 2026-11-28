@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-27T11:56:22.208067+00:00",
-  "totalJobs": 726,
+  "lastUpdated": "2026-11-28T11:30:26.986919+00:00",
+  "totalJobs": 729,
   "sources": [
     "Anthropic",
     "Ashby",
@@ -10,6 +10,206 @@
     "RemoteOK"
   ],
   "jobs": [
+    {
+      "id": "gr-deliveroo-8205846",
+      "company": "Deliveroo ",
+      "position": "Senior Software Engineer, GenAI Platform",
+      "location": "London, United Kingdom - Deliveroo",
+      "locations": [
+        "London, United Kingdom - Deliveroo"
+      ],
+      "remote": false,
+      "salary": "",
+      "description": "Our Global Structure Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we’re unlocking new possibilities as one global team....",
+      "applyUrl": "https://job-boards.greenhouse.io/deliveroo/jobs/8205846",
+      "source": "Greenhouse",
+      "sourceUrl": "https://job-boards.greenhouse.io/deliveroo/jobs/8205846",
+      "postedAt": "2026-11-28T06:12:18-05:00",
+      "tags": [
+        "Claude Code",
+        "Python",
+        "AWS",
+        "GCP",
+        "Kubernetes",
+        "Cursor",
+        "MCP"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "gr-gitlab-8963786002",
+      "company": "GitLab",
+      "position": "Data Scientist, Enterprise Analytics",
+      "location": "Remote, United Kingdom",
+      "locations": [
+        "Remote, United Kingdom"
+      ],
+      "remote": true,
+      "salary": "",
+      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the...",
+      "applyUrl": "https://job-boards.greenhouse.io/gitlab/jobs/8963786002",
+      "source": "Greenhouse",
+      "sourceUrl": "https://job-boards.greenhouse.io/gitlab/jobs/8963786002",
+      "postedAt": "2026-11-27T18:05:12-05:00",
+      "tags": [
+        "Claude Code",
+        "Python"
+      ],
+      "companyIcon": "https://gitlab.com/favicon.ico"
+    },
+    {
+      "id": "gr-binance-5025783101",
+      "company": "Binance",
+      "position": "Full Stack Engineer - Recommendation Engine (APAC Remote)",
+      "location": "Hong Kong · Japan · Singapore · Taiwan",
+      "locations": [
+        "Hong Kong",
+        "Japan",
+        "Singapore",
+        "Taiwan"
+      ],
+      "remote": false,
+      "salary": "",
+      "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an...",
+      "applyUrl": "https://job-boards.eu.greenhouse.io/binance/jobs/5025783101",
+      "source": "Greenhouse",
+      "sourceUrl": "https://job-boards.eu.greenhouse.io/binance/jobs/5025783101",
+      "postedAt": "2026-11-27T17:46:59-05:00",
+      "tags": [
+        "Claude Code",
+        "React",
+        "Go",
+        "Cursor",
+        "Copilot",
+        "Java"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "le-ciandt-8c28d8d6-817b-4d9c-9766-b0d265e19a21",
+      "company": "Ciandt",
+      "position": "[Job- 32816] Sr/Master AWS DevOps Engineer, Colombia",
+      "location": "Colombia",
+      "locations": [
+        "Colombia"
+      ],
+      "remote": true,
+      "salary": "",
+      "description": "At CI&T, we help large enterprises transform the potential of AI into real business impact with AI Deployment, AI-native execution, and tech-integrated business solutions.\nWith 30 years of experience in technological transformation, we accelerate innovation with expertise in Agentic SDLC,...",
+      "applyUrl": "https://jobs.lever.co/ciandt/8c28d8d6-817b-4d9c-9766-b0d265e19a21",
+      "source": "Lever",
+      "sourceUrl": "https://jobs.lever.co/ciandt/8c28d8d6-817b-4d9c-9766-b0d265e19a21",
+      "postedAt": "2026-11-27T17:17:33.657000+00:00",
+      "tags": [
+        "Claude Code",
+        "AWS",
+        "Docker"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "le-ciandt-8a8707d5-6f77-4233-a1aa-09292c128701",
+      "company": "Ciandt",
+      "position": "[Job- 32816] Sr/Master AWS DevOps Engineer, Brazil",
+      "location": "Brazil",
+      "locations": [
+        "Brazil"
+      ],
+      "remote": true,
+      "salary": "",
+      "description": "At CI&T, we help large enterprises transform the potential of AI into real business impact with AI Deployment, AI-native execution, and tech-integrated business solutions.\nWith 30 years of experience in technological transformation, we accelerate innovation with expertise in Agentic SDLC,...",
+      "applyUrl": "https://jobs.lever.co/ciandt/8a8707d5-6f77-4233-a1aa-09292c128701",
+      "source": "Lever",
+      "sourceUrl": "https://jobs.lever.co/ciandt/8a8707d5-6f77-4233-a1aa-09292c128701",
+      "postedAt": "2026-11-27T17:16:22.136000+00:00",
+      "tags": [
+        "Claude Code",
+        "AWS",
+        "Docker"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "le-provectus-f43906d9-48eb-4903-9a69-f5183ee9d0b5",
+      "company": "Provectus",
+      "position": "Senior Forward Deployed AI Architect (Claude, AWS)",
+      "location": "New York City Metropolitan Area · New York · Connecticut · New Jersey",
+      "locations": [
+        "New York City Metropolitan Area",
+        "New York",
+        "Connecticut",
+        "New Jersey"
+      ],
+      "remote": false,
+      "salary": "$200k–$250k",
+      "description": "Full-time · Base $180,000–$250,000 + bonus, OTE up to $300,000, No Visa sponsorship\nAt Provectus, you don’t prototype in a sandbox and hand a client a slide deck. You embed inside a bank, an insurer, or a health system, learn the work, and ship a Claude + AWS system into their real, regulated...",
+      "applyUrl": "https://jobs.lever.co/provectus/f43906d9-48eb-4903-9a69-f5183ee9d0b5",
+      "source": "Lever",
+      "sourceUrl": "https://jobs.lever.co/provectus/f43906d9-48eb-4903-9a69-f5183ee9d0b5",
+      "postedAt": "2026-11-27T16:20:26.024000+00:00",
+      "tags": [
+        "Claude Code",
+        "TypeScript",
+        "Python",
+        "AWS",
+        "GCP",
+        "Azure",
+        "Kubernetes",
+        "MCP"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "le-provectus-74ecef43-3ef6-4c8b-8f98-de805a467161",
+      "company": "Provectus",
+      "position": "Growth Marketer, AI-Native",
+      "location": "New York, New York · San Francisco Bay Area, California",
+      "locations": [
+        "New York, New York",
+        "San Francisco Bay Area, California"
+      ],
+      "remote": true,
+      "salary": "",
+      "description": "  We build production AI systems for enterprises. Financial services, healthcare companies, PE-backed operators. We are a Select-tier partner in Anthropic's Claude Partner Network, among the first integrators selected. Every one of those systems has two stories. What we built, and why it changed...",
+      "applyUrl": "https://jobs.lever.co/provectus/74ecef43-3ef6-4c8b-8f98-de805a467161",
+      "source": "Lever",
+      "sourceUrl": "https://jobs.lever.co/provectus/74ecef43-3ef6-4c8b-8f98-de805a467161",
+      "postedAt": "2026-11-27T16:04:02.555000+00:00",
+      "tags": [
+        "Claude Code",
+        "TypeScript",
+        "Python",
+        "Cursor"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "as-kaluza-6eaf78c8-2db8-4656-9383-ed0c4e04a1f1",
+      "company": "Kaluza",
+      "position": "Senior Engineer",
+      "location": "Edinburgh, UK · Bristol, UK",
+      "locations": [
+        "Edinburgh, UK",
+        "Bristol, UK"
+      ],
+      "remote": false,
+      "salary": "",
+      "description": " - Senior Engineer (Flex)\n   \n   Location: London (hybrid, three days a week in the office)\n   \n   Level: Senior Engineer I\n   \n   Team: Engineering\n   \n   Salary: £60,000 – £90,000 + discretionary bonus\n   \n   Contract: Permanent\n   \n   Reporting To: Software Engineering Manager\n   \n   \n   \n  ...",
+      "applyUrl": "https://jobs.ashbyhq.com/kaluza/6eaf78c8-2db8-4656-9383-ed0c4e04a1f1",
+      "source": "Ashby",
+      "sourceUrl": "https://jobs.ashbyhq.com/kaluza/6eaf78c8-2db8-4656-9383-ed0c4e04a1f1",
+      "postedAt": "2026-11-27T13:55:13.767+00:00",
+      "tags": [
+        "Claude Code",
+        "React",
+        "Go",
+        "GCP",
+        "Cursor",
+        "GraphQL",
+        "MCP"
+      ],
+      "companyIcon": ""
+    },
     {
       "id": "le-provectus-908d737d-8d8a-4927-8ff4-1b85c6b6c27c",
       "company": "Provectus",
@@ -42,6 +242,31 @@
         "Azure",
         "Kubernetes",
         "MCP"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "gr-backblaze-5204308008",
+      "company": "Backblaze External Website",
+      "position": "Sr. Software Engineer - Application Security ",
+      "location": "Remote - Colombia · Remote - Costa Rica · Remote - Mexico",
+      "locations": [
+        "Remote - Colombia",
+        "Remote - Costa Rica",
+        "Remote - Mexico"
+      ],
+      "remote": true,
+      "salary": "",
+      "description": "About Backblaze Backblaze provides reliable, high-availability cloud storage trusted by consumers, SMBs, enterprises, and developers in over 150 countries. Backblaze B2 Cloud Storage supports data-intensive workloads including backup, media, analytics, and modern AI pipelines. Our teams focus on...",
+      "applyUrl": "https://job-boards.greenhouse.io/backblaze/jobs/5204308008",
+      "source": "Greenhouse",
+      "sourceUrl": "https://job-boards.greenhouse.io/backblaze/jobs/5204308008",
+      "postedAt": "2026-11-27T10:31:58-05:00",
+      "tags": [
+        "Claude Code",
+        "JavaScript",
+        "Cursor",
+        "Java"
       ],
       "companyIcon": ""
     },
@@ -106,65 +331,6 @@
       "companyIcon": ""
     },
     {
-      "id": "le-provectus-00cf447c-2d4b-4567-937f-a2e0119d188c",
-      "company": "Provectus",
-      "position": "Senior Forward Deployed AI Architect (Claude, AWS)",
-      "location": "New York City Metropolitan Area · New York · Connecticut · New Jersey · Wilmington, Delaware · Allentown, Pennsylvania ·",
-      "locations": [
-        "New York City Metropolitan Area",
-        "New York",
-        "Connecticut",
-        "New Jersey",
-        "Wilmington, Delaware",
-        "Allentown, Pennsylvania",
-        "Philadelphia, Pennsylvania"
-      ],
-      "remote": true,
-      "salary": "$180k–$250k",
-      "description": "Full-time · Base $180,000–$250,000 + bonus, OTE up to $300,000, No Visa sponsorship\nAt Provectus, you don’t prototype in a sandbox and hand a client a slide deck. You embed inside a bank, an insurer, or a health system, learn the work, and ship a Claude + AWS system into their real, regulated...",
-      "applyUrl": "https://jobs.lever.co/provectus/00cf447c-2d4b-4567-937f-a2e0119d188c",
-      "source": "Lever",
-      "sourceUrl": "https://jobs.lever.co/provectus/00cf447c-2d4b-4567-937f-a2e0119d188c",
-      "postedAt": "2026-11-27T09:32:30.790000+00:00",
-      "tags": [
-        "Claude Code",
-        "TypeScript",
-        "Python",
-        "AWS",
-        "GCP",
-        "Azure",
-        "Kubernetes",
-        "MCP"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "gr-deliveroo-8205846",
-      "company": "Deliveroo ",
-      "position": "Senior Software Engineer, GenAI Platform",
-      "location": "London, United Kingdom - Deliveroo",
-      "locations": [
-        "London, United Kingdom - Deliveroo"
-      ],
-      "remote": false,
-      "salary": "",
-      "description": "Our Global Structure Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we’re unlocking new possibilities as one global team....",
-      "applyUrl": "https://job-boards.greenhouse.io/deliveroo/jobs/8205846",
-      "source": "Greenhouse",
-      "sourceUrl": "https://job-boards.greenhouse.io/deliveroo/jobs/8205846",
-      "postedAt": "2026-11-27T06:46:51-05:00",
-      "tags": [
-        "Claude Code",
-        "Python",
-        "AWS",
-        "GCP",
-        "Kubernetes",
-        "Cursor",
-        "MCP"
-      ],
-      "companyIcon": ""
-    },
-    {
       "id": "gr-exadelinc-6136156004",
       "company": "Exadel Inc (Website)",
       "position": "Lead AI Solutions Engineer",
@@ -203,6 +369,64 @@
       "tags": [
         "Claude Code",
         "MCP"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "rok-remote-founding-engineer-3y-health-1138213",
+      "company": "3Y Health",
+      "position": "Founding Engineer",
+      "location": "Remote (Canada Only)",
+      "locations": [
+        "Canada Only"
+      ],
+      "remote": true,
+      "salary": "$150k–$200k",
+      "description": "About 3Y Health 3Y Health is building the operating system for healthcare practices, an AI-native platform that helps clinicians start, run and grow their practice. We work as a managed services organization (MSO): along with the software, our operations team runs the back office for the clinics we...",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-founding-engineer-3y-health-1138213",
+      "source": "RemoteOK",
+      "sourceUrl": "https://remoteok.com/remote-jobs/remote-founding-engineer-3y-health-1138213",
+      "postedAt": "2026-11-27T03:20:38+00:00",
+      "tags": [
+        "Claude Code",
+        "React Native",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "PostgreSQL",
+        "AWS",
+        "Cursor",
+        "Kotlin"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "rok-remote-senior-software-engineer-3y-health-1138212",
+      "company": "3Y Health",
+      "position": "Senior Software Engineer",
+      "location": "Remote (Canada Only)",
+      "locations": [
+        "Canada Only"
+      ],
+      "remote": true,
+      "salary": "$150k–$200k",
+      "description": "About 3Y Health 3Y Health is building the operating system for healthcare practices, an AI-native platform that helps clinicians start, run and grow their practice. We work as a managed services organization (MSO): along with the software, our operations team runs the back office for the clinics we...",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-3y-health-1138212",
+      "source": "RemoteOK",
+      "sourceUrl": "https://remoteok.com/remote-jobs/remote-senior-software-engineer-3y-health-1138212",
+      "postedAt": "2026-11-27T03:00:43+00:00",
+      "tags": [
+        "Claude Code",
+        "React Native",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "PostgreSQL",
+        "AWS",
+        "Cursor",
+        "Kotlin"
       ],
       "companyIcon": ""
     },
@@ -806,45 +1030,6 @@
       "companyIcon": ""
     },
     {
-      "id": "as-3y-health-2f26eaf3-114a-4282-ad23-8380e02a6541",
-      "company": "3Y Health",
-      "position": "Founding Engineer",
-      "location": "Remote - Poland · Remote - Romania · Remote - Estonia · Remote - Georgia · Remote - Ukraine · Remote - Czech Republic · ",
-      "locations": [
-        "Remote - Poland",
-        "Remote - Romania",
-        "Remote - Estonia",
-        "Remote - Georgia",
-        "Remote - Ukraine",
-        "Remote - Czech Republic",
-        "Remote - Hungary",
-        "Remote - Spain",
-        "Remote - Latvia",
-        "Remote - Portugal",
-        "Remote - Lithuania"
-      ],
-      "remote": true,
-      "salary": "",
-      "description": "ABOUT 3Y HEALTH\n\n3Y Health is building the operating system for healthcare practices, an AI-native platform that helps clinicians start, run and grow their practice. We work as a managed services organization (MSO): along with the software, our operations team runs the back office for the clinics...",
-      "applyUrl": "https://jobs.ashbyhq.com/3y-health/2f26eaf3-114a-4282-ad23-8380e02a6541",
-      "source": "Ashby",
-      "sourceUrl": "https://jobs.ashbyhq.com/3y-health/2f26eaf3-114a-4282-ad23-8380e02a6541",
-      "postedAt": "2026-11-25T15:52:13.700+00:00",
-      "tags": [
-        "Claude Code",
-        "React Native",
-        "React",
-        "Next.js",
-        "TypeScript",
-        "Python",
-        "PostgreSQL",
-        "AWS",
-        "Cursor",
-        "Kotlin"
-      ],
-      "companyIcon": ""
-    },
-    {
       "id": "as-3y-health-9a3e3338-e093-46b9-83b5-507c0bf02980",
       "company": "3Y Health",
       "position": "Full Stack Engineer",
@@ -908,45 +1093,6 @@
       "source": "Ashby",
       "sourceUrl": "https://jobs.ashbyhq.com/3y-health/675bd784-491e-4bec-b4c3-a596cfab3932",
       "postedAt": "2026-11-25T15:52:05.209+00:00",
-      "tags": [
-        "Claude Code",
-        "React Native",
-        "React",
-        "Next.js",
-        "TypeScript",
-        "Python",
-        "PostgreSQL",
-        "AWS",
-        "Cursor",
-        "Kotlin"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "as-3y-health-e130626b-5215-4837-b5ff-5c473504d582",
-      "company": "3Y Health",
-      "position": "Senior Software Engineer",
-      "location": "Remote - Poland · Remote - Romania · Remote - Estonia · Remote - Georgia · Remote - Ukraine · Remote - Czech Republic · ",
-      "locations": [
-        "Remote - Poland",
-        "Remote - Romania",
-        "Remote - Estonia",
-        "Remote - Georgia",
-        "Remote - Ukraine",
-        "Remote - Czech Republic",
-        "Remote - Hungary",
-        "Remote - Spain",
-        "Remote - Latvia",
-        "Remote - Portugal",
-        "Remote - Lithuania"
-      ],
-      "remote": true,
-      "salary": "",
-      "description": "ABOUT 3Y HEALTH\n\n3Y Health is building the operating system for healthcare practices, an AI-native platform that helps clinicians start, run and grow their practice. We work as a managed services organization (MSO): along with the software, our operations team runs the back office for the clinics...",
-      "applyUrl": "https://jobs.ashbyhq.com/3y-health/e130626b-5215-4837-b5ff-5c473504d582",
-      "source": "Ashby",
-      "sourceUrl": "https://jobs.ashbyhq.com/3y-health/e130626b-5215-4837-b5ff-5c473504d582",
-      "postedAt": "2026-11-25T15:51:59.835+00:00",
       "tags": [
         "Claude Code",
         "React Native",
@@ -1184,32 +1330,6 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-mongodb-8153173",
-      "company": "MongoDB",
-      "position": "Principal Application Engineer",
-      "location": "France",
-      "locations": [
-        "France"
-      ],
-      "remote": false,
-      "salary": "",
-      "description": "Application Modernization Platform (“AMP”) is a MongoDB offering that modernises our customer’s legacy relational applications to a modern architecture underpinned by MongoDB using a combination of software, processes, and engineers. In this offering, the people and software are inextricably linked...",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8153173",
-      "source": "Greenhouse",
-      "sourceUrl": "https://www.mongodb.com/careers/job/?gh_jid=8153173",
-      "postedAt": "2026-11-25T09:33:36-05:00",
-      "tags": [
-        "Claude Code",
-        "JavaScript",
-        "AWS",
-        "Azure",
-        "Cursor",
-        "Java",
-        "MongoDB"
-      ],
-      "companyIcon": ""
-    },
-    {
       "id": "gr-mongodb-8122751",
       "company": "MongoDB",
       "position": "Salesforce Developer III",
@@ -1262,19 +1382,19 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-mongodb-7778975",
+      "id": "gr-mongodb-8036348",
       "company": "MongoDB",
       "position": "Senior Administrator - Business Systems",
-      "location": "India",
+      "location": "Gurugram",
       "locations": [
-        "India"
+        "Gurugram"
       ],
       "remote": false,
       "salary": "",
-      "description": "We are looking to speak to candidates who are based in India for our hybrid working model. About MongoDB The database market is massive, and MongoDB is at the head of its disruption. The MongoDB community is transforming industries and empowering developers to build amazing applications that people...",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=7778975",
+      "description": "The IT SaaS Engineering Team plays a critical role in optimizing MongoDB sales processes, streamlining customer interactions, and maximizing the efficiency of our sales efforts. By leveraging Salesforce, the team ensures that business users have the tools, automation, security, and governance...",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8036348",
       "source": "Greenhouse",
-      "sourceUrl": "https://www.mongodb.com/careers/job/?gh_jid=7778975",
+      "sourceUrl": "https://www.mongodb.com/careers/job/?gh_jid=8036348",
       "postedAt": "2026-11-25T09:33:36-05:00",
       "tags": [
         "Claude Code",
@@ -1371,19 +1491,20 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-mongodb-7590735",
+      "id": "gr-mongodb-7392902",
       "company": "MongoDB",
       "position": "Senior Software Engineer, Forward Deployed AI Engineer",
-      "location": "Ireland",
+      "location": "Cork, Ireland · Dublin, Ireland",
       "locations": [
-        "Ireland"
+        "Cork, Ireland",
+        "Dublin, Ireland"
       ],
       "remote": false,
       "salary": "",
       "description": "MongoDB is looking for an outstanding person to join our newly created Forward Deployed Engineering team and take on a key role in our extended R&D organization. Forward Deployed Engineering is linking the work of teams engaged on application modernization roles with our Product and Engineering...",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=7590735",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=7392902",
       "source": "Greenhouse",
-      "sourceUrl": "https://www.mongodb.com/careers/job/?gh_jid=7590735",
+      "sourceUrl": "https://www.mongodb.com/careers/job/?gh_jid=7392902",
       "postedAt": "2026-11-25T09:33:36-05:00",
       "tags": [
         "Claude Code",
@@ -1397,24 +1518,60 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-mongodb-8401912",
+      "id": "gr-mongodb-8404811",
       "company": "MongoDB",
       "position": "Senior Solutions Architect - Application Modernisation",
-      "location": "Dublin",
+      "location": "Brazil · Mexico · Mexico City",
       "locations": [
-        "Dublin"
+        "Brazil",
+        "Mexico",
+        "Mexico City"
       ],
       "remote": false,
       "salary": "",
-      "description": "MongoDB's Application Modernization Platform (AMP) team aims to grow the adoption of MongoDB by accelerating the rate at which legacy applications built on RDBMS can be modernized to MongoDB. The AMP team uses modernization methodologies defined as agentic playbooks and skills for AI Coding...",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8401912",
+      "description": "AMP Solutions Architect MongoDB’s mission is to empower innovators to create, transform, and disrupt industries by unleashing the power of software and data. We enable organizations of all sizes to easily build, scale, and run modern applications by helping them modernize legacy workloads, embrace...",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8404811",
       "source": "Greenhouse",
-      "sourceUrl": "https://www.mongodb.com/careers/job/?gh_jid=8401912",
+      "sourceUrl": "https://www.mongodb.com/careers/job/?gh_jid=8404811",
       "postedAt": "2026-11-25T09:33:36-05:00",
       "tags": [
         "Claude Code",
         "Python",
         "Node.js",
+        "AWS",
+        "Azure",
+        "Docker",
+        "Cursor",
+        "Copilot",
+        "Java",
+        "MongoDB"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "gr-mongodb-8406130",
+      "company": "MongoDB",
+      "position": "Senior Solutions Architect - Application Modernization",
+      "location": "California · Los Angeles · San Diego · San Francisco",
+      "locations": [
+        "California",
+        "Los Angeles",
+        "San Diego",
+        "San Francisco"
+      ],
+      "remote": false,
+      "salary": "",
+      "description": "MongoDB's Application Modernization Platform (AMP) team aims to grow the adoption of MongoDB by accelerating the rate at which legacy applications built on RDBMS can be modernized to MongoDB. The AMP team uses modernization methodologies defined as agentic playbooks and skills for AI Coding...",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8406130",
+      "source": "Greenhouse",
+      "sourceUrl": "https://www.mongodb.com/careers/job/?gh_jid=8406130",
+      "postedAt": "2026-11-25T09:33:36-05:00",
+      "tags": [
+        "Claude Code",
+        "Python",
+        "Node.js",
+        "AWS",
+        "Azure",
         "Docker",
         "Cursor",
         "Copilot",
@@ -2442,35 +2599,6 @@
       "companyIcon": ""
     },
     {
-      "id": "rok-remote-senior-cx-platform-engineer-gitlab-1138075",
-      "company": "GitLab",
-      "position": "Senior CX Platform Engineer",
-      "location": "Remote (Canada Only)",
-      "locations": [
-        "Canada Only"
-      ],
-      "remote": true,
-      "salary": "",
-      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the...",
-      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-cx-platform-engineer-gitlab-1138075",
-      "source": "RemoteOK",
-      "sourceUrl": "https://remoteok.com/remote-jobs/remote-senior-cx-platform-engineer-gitlab-1138075",
-      "postedAt": "2026-11-24T00:00:07+00:00",
-      "tags": [
-        "Claude Code",
-        "React",
-        "TypeScript",
-        "Python",
-        "AWS",
-        "Docker",
-        "Cursor",
-        "Flask",
-        "Vue.js",
-        "GraphQL"
-      ],
-      "companyIcon": ""
-    },
-    {
       "id": "gr-samsara-8055217",
       "company": "Samsara",
       "position": "Senior Software Engineer II - Platform",
@@ -3268,34 +3396,6 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-binance-5025783101",
-      "company": "Binance",
-      "position": "Full Stack Engineer - Recommendation Engine (APAC Remote)",
-      "location": "Hong Kong · Japan · Singapore · Taiwan",
-      "locations": [
-        "Hong Kong",
-        "Japan",
-        "Singapore",
-        "Taiwan"
-      ],
-      "remote": false,
-      "salary": "",
-      "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an...",
-      "applyUrl": "https://job-boards.eu.greenhouse.io/binance/jobs/5025783101",
-      "source": "Greenhouse",
-      "sourceUrl": "https://job-boards.eu.greenhouse.io/binance/jobs/5025783101",
-      "postedAt": "2026-11-23T01:55:35-05:00",
-      "tags": [
-        "Claude Code",
-        "React",
-        "Go",
-        "Cursor",
-        "Copilot",
-        "Java"
-      ],
-      "companyIcon": ""
-    },
-    {
       "id": "gr-binance-5005781101",
       "company": "Binance",
       "position": "Fullstack Engineer",
@@ -3692,6 +3792,35 @@
         "Cursor"
       ],
       "companyIcon": ""
+    },
+    {
+      "id": "gr-gitlab-8957066002",
+      "company": "GitLab",
+      "position": "Senior CX Platform Engineer",
+      "location": "Remote, Canada",
+      "locations": [
+        "Remote, Canada"
+      ],
+      "remote": true,
+      "salary": "",
+      "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the...",
+      "applyUrl": "https://job-boards.greenhouse.io/gitlab/jobs/8957066002",
+      "source": "Greenhouse",
+      "sourceUrl": "https://job-boards.greenhouse.io/gitlab/jobs/8957066002",
+      "postedAt": "2026-11-20T13:57:40-05:00",
+      "tags": [
+        "Claude Code",
+        "React",
+        "TypeScript",
+        "Python",
+        "AWS",
+        "Docker",
+        "Cursor",
+        "Flask",
+        "Vue.js",
+        "GraphQL"
+      ],
+      "companyIcon": "https://gitlab.com/favicon.ico"
     },
     {
       "id": "gr-gusto-8400148",
@@ -5773,7 +5902,7 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-andurilindustries-5198870007",
+      "id": "gr-andurilindustries-5251234007",
       "company": "Anduril Industries",
       "position": "Senior Quality Engineer, Analytics",
       "location": "Ashville, Ohio, United States",
@@ -5783,9 +5912,9 @@
       "remote": false,
       "salary": "",
       "description": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how...",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5198870007?gh_jid=5198870007",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5251234007?gh_jid=5251234007",
       "source": "Greenhouse",
-      "sourceUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5198870007?gh_jid=5198870007",
+      "sourceUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5251234007?gh_jid=5251234007",
       "postedAt": "2026-11-16T21:23:01-05:00",
       "tags": [
         "Claude Code",
@@ -6724,29 +6853,6 @@
       "companyIcon": "https://bitwarden.com/favicon.ico"
     },
     {
-      "id": "gr-samsara-8052685",
-      "company": "Samsara",
-      "position": "Senior Software Engineer, Agentic Customer Platform (Poland, Remote, B2B)",
-      "location": "Remote - Poland",
-      "locations": [
-        "Remote - Poland"
-      ],
-      "remote": true,
-      "salary": "",
-      "description": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping...",
-      "applyUrl": "https://www.samsara.com/company/careers/roles/8052685?gh_jid=8052685",
-      "source": "Greenhouse",
-      "sourceUrl": "https://www.samsara.com/company/careers/roles/8052685?gh_jid=8052685",
-      "postedAt": "2026-11-13T06:45:00-05:00",
-      "tags": [
-        "Claude Code",
-        "Cursor",
-        "GraphQL",
-        "MCP"
-      ],
-      "companyIcon": ""
-    },
-    {
       "id": "gr-affirm-8045395003",
       "company": "Affirm",
       "position": "Staff Machine Learning Engineer (Credit International ML)",
@@ -7386,30 +7492,6 @@
         "Swift",
         "Kotlin",
         "MCP"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "le-provectus-9c3c7b0f-eb44-44f4-a765-e13eecd2b891",
-      "company": "Provectus",
-      "position": "Growth Marketer, AI-Native",
-      "location": "New York, New York · San Francisco Bay Area, California",
-      "locations": [
-        "New York, New York",
-        "San Francisco Bay Area, California"
-      ],
-      "remote": true,
-      "salary": "",
-      "description": "  We build production AI systems for enterprises. Financial services, healthcare companies, PE-backed operators. We are a Select-tier partner in Anthropic's Claude Partner Network, among the first integrators selected. Every one of those systems has two stories. What we built, and why it changed...",
-      "applyUrl": "https://jobs.lever.co/provectus/9c3c7b0f-eb44-44f4-a765-e13eecd2b891",
-      "source": "Lever",
-      "sourceUrl": "https://jobs.lever.co/provectus/9c3c7b0f-eb44-44f4-a765-e13eecd2b891",
-      "postedAt": "2026-11-10T20:03:47.028000+00:00",
-      "tags": [
-        "Claude Code",
-        "TypeScript",
-        "Python",
-        "Cursor"
       ],
       "companyIcon": ""
     },
@@ -13674,34 +13756,6 @@
       "tags": [
         "Claude Code",
         "Rust",
-        "Cursor",
-        "Java"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "gr-backblaze-5204308008",
-      "company": "Backblaze External Website",
-      "position": "Sr. Software Engineer - Application Security ",
-      "location": "Remote - Colombia · Remote - Costa Rica · Remote - Mexico",
-      "locations": [
-        "Remote - Colombia",
-        "Remote - Costa Rica",
-        "Remote - Mexico"
-      ],
-      "remote": true,
-      "salary": "",
-      "description": "About Backblaze Backblaze provides reliable, high-availability cloud storage trusted by consumers, SMBs, enterprises, and developers in over 150 countries. Backblaze B2 Cloud Storage supports data-intensive workloads including backup, media, analytics, and modern AI pipelines. Our teams focus on...",
-      "applyUrl": "https://job-boards.greenhouse.io/backblaze/jobs/5204308008",
-      "source": "Greenhouse",
-      "sourceUrl": "https://job-boards.greenhouse.io/backblaze/jobs/5204308008",
-      "postedAt": "2026-10-14T12:39:58-04:00",
-      "tags": [
-        "Claude Code",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "Go",
         "Cursor",
         "Java"
       ],
